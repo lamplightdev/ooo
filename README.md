@@ -1,3 +1,3 @@
-# ooo
+# Out of order streaming without JavaScript
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/lamplightdev/ooo)
+A technique for streaming HTML out of order without JavaScript. [See the blog post](https://lamplightdev.com/blog/2024/01/10/streaming-html-out-of-order-without-javascript/) for more information.
