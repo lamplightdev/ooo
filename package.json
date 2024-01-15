@@ -4,7 +4,7 @@
   },
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "@hono/node-server": "^1.4.0",
